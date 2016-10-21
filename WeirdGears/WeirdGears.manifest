@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"6629998b-1747-4948-b895-24cfa15465d5",
+	"author":	"Thomas Landahl",
+	"description":	{
+		"":	"Make non circular planet gear"
+	},
+	"version":	"one million",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
